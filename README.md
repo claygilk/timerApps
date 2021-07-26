@@ -1,5 +1,7 @@
 # timer-app
 
+- Just added bootstrap. Next step is to go in and make the UI look better.
+
 ## Project setup
 ```
 npm install
